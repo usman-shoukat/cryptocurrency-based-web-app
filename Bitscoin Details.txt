@@ -1,0 +1,24 @@
+Gist Github Code
+
+https://gist.github.com/ammar4243/cdf971813cbb35abaa1cff8b3b404d90
+
+reddit
+https://www.reddit.com/r/1BTCxAirdrop
+Contract COde
+
+0x9388f54fa978aa9e24395a8b69033304eccea4df
+
+ETherScan Signin message
+
+This is Rj Aymi
+
+{
+  "address": "0x1e2f6de9a19b41c9224c1d4a663828854747f715",
+  "msg": "This is Rj Aymi",
+  "sig": "0x93260720c1c41bc3d94212ff7c06a0cb37073a509ac485956ef986500417c4644159b34ce55031cfb7dc54013818be8befdd3e388a0319d61802206bdd8f3f411b",
+  "version": "2"
+}
+
+Msg hash
+
+0x30d2743c295f5efda43fa4c111a2a04d632e8e70e60f2a0d89995597c8d945b2408bc812af2c38868da82d438b116bec45e81f7be0a54a558c23cbf7144b6b251c
